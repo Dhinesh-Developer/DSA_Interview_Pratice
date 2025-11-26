@@ -1,6 +1,6 @@
 package com.Interview;
 
-// print the Diamond pattern
+// print the Diamond pattern using the java.
 public class Interview1 {
 	public static void main(String[] args) {
 		
